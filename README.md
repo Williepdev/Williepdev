@@ -1,3 +1,13 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+
+<div id="badges">
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Instagram-yellow?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+</div>
+
 - 👋 Hi, I’m willie 
 - 👀 I’m interested in building PCs, Keyboards, gaming, music and more
 - 🌱 I’m currently learning ... python and HTML and working on getting better in C#
@@ -5,7 +15,6 @@
 - 📫 How to reach me ... you can reach me at williebackup27@gmail.com
 
 [![Williepdev GitHub stats](https://github-readme-stats.vercel.app/api?username=Williepdev)](https://github.com/anuraghazra/github-readme-stats)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Williepdev)](https://github.com/anuraghazra/github-readme-stats)
 <!---
