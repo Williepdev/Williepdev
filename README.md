@@ -2,6 +2,12 @@
 
 I am a high school programmer, primarly java, I can do python, html and css, and c#
 
+
+#major projects working on
+-betterNet
+-Tea programming language
+-MarkedMusic
+
 [![Williepdev GitHub stats](https://github-readme-stats.vercel.app/api?username=Williepdev)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Williepdev)](https://github.com/anuraghazra/github-readme-stats)
